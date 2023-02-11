@@ -1,0 +1,7 @@
+$enable-gradients: true;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+:root{
+    --bs-body-font-family: 'Roboto Slab', serif;
+}
